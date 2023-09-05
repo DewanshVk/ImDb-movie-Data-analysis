@@ -1,1 +1,2 @@
 # ImDb-movie-Data-analysis
+Hey! I've developed an IMDb Movie Data Analysis using Jupyter Notebook and Tableau. Jupyter Notebook meticulously processed and dissected the IMDb dataset, uncovering hidden trends and correlations, while Tableau's visual prowess transformed these findings into intuitive, interactive dashboards. This fusion of analytical depth and visual appeal delivers a compelling IMDb analysis tool, making movie insights accessible and engaging.
